@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "module": "commonjs",
+    "lib": ["dom", "dom.iterable"],
+    "downlevelIteration": true,
+    "target": "es5",
+    "jsx": "react",
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "types": ["vitest/globals"]
+  },
+  "include": ["./src/**/*.ts", "./src/**/*.tsx"]
+}
