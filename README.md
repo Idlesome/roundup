@@ -1,3 +1,5 @@
+Tech test by Kirt Rainford for Starling Bank.
+
 Displays a transaction round-up amount for a week with a button to transfer the round-ups to a saver goal.
 
 # Approach
